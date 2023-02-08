@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="buttonStartNewGame">START OVER</string>
+    <string name="result">Your result: %s\nMaximum result: %s</string>
+    <string-array name="questions">
+        <item>Athletics includes</item>
+        <item>What is the number of points during one hit of the ball in the basket in the game "basketball" does not happen?</item>
+        <item>From the suggested options, select the one that displays the classification of short distances:</item>
+        <item>What period of time should be observed between physical education and eating?</item>
+        <item>What is sprinting?</item>
+        <item>What motor maneuvers are used in basketball?</item>
+        <item>How many meters is the "run-up" in jumping with bent legs?</item>
+        <item>Which of the sports has a significant effect on the development of strength?</item>
+        <item>Who was the founder of the revival of the Sports Olympiad?</item>
+        <item>Up to what score does the game of "volleyball" last?</item>
+        <item>What country does basketball come from?</item>
+        <item>Long jumps are carried out in the following sequence:</item>
+        <item>How many players from each team are allowed on the court during a basketball game?</item>
+        <item>What is the maximum number of attempts each competitor has during the long jump?</item>
+        <item>How can marathon running be characterized?</item>
+        <item>Who was awarded the title of the first Olympic champion in athletics?</item>
+        <item>From the suggested options, choose the one that specifies the types of athletics exercises:</item>
+        <item>Inactivity is a condition that results from:</item>
+        <item>The most important criteria that allow a person to run are considered to be:</item>
+        <item>The main reason for incorrect posture is:</item>
+        <item>From the list of options, select the one that indicates the correct size of the volleyball field:</item>
+        <item>Choose from the list the sport that promotes the development of endurance:</item>
+        <item>What technique is prohibited in the game "basketball"?</item>
+        <item>Long-distance running allows athletes to develop such quality as:</item>
+        <item>What is fatigue?</item>
+        <item>How long can a team of players have the ball until the moment of the ring throw:</item>
+        <item>The following place is intended for running exercises:</item>
+        <item>What is the number of stages in the jumps?</item>
+        <item>How many basic motor abilities are there?</item>
+        <item>What is the name of a health condition in which there are not enough vitamins in the human body?</item>
+        <item>Who are the "Olympians"?</item>
+        <item>What distance races are run from a low start?</item>
+    </string-array>
+
+    <integer-array name="answers">
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+</resources>
